@@ -1,11 +1,11 @@
 <template>
   <FullCalendar
     defaultView="dayGridMonth"
-    eventColor="#e65100"
     :plugins="calendarPlugins"
     :locale="locale"
+    :height="height"
     :googleCalendarApiKey="googleCalendarApiKey"
-    :events="events"
+    :eventSources="eventSources"
     :eventClick="eventClick"
     :header="{
       left: 'prev,next today',
@@ -35,12 +35,20 @@ export default {
     return {
       calendarPlugins: [dayGridPlugin, timeGridPlugin, googleCalendarPlugin],
       locale: jaLocale,
-      googleCalendarApiKey: "AIzaSyCGbxMfMBY-hIajaDK9GjHN6l9zw1JGkIc",
-      events: {
-        googleCalendarId:
-          "rb9hqd1uuhg6vm91a19thqcno4@group.calendar.google.com",
-        className: "gcal-event"
-      },
+      height: "auto",
+      googleCalendarApiKey: "process.env.GOOGLE_CAL_KEY",
+      eventSources: [
+        {
+          googleCalendarId:
+            "rb9hqd1uuhg6vm91a19thqcno4@group.calendar.google.com",
+          className: "gcal-event"
+        },
+        {
+          googleCalendarId:
+            "478gijl532qrkkrcu1brcf15i8@group.calendar.google.com",
+          className: "canceled-event"
+        }
+      ],
       eventClick: function(info) {
         if (info.event.url) {
           window.open(info.event.url, "_blank");
@@ -61,5 +69,13 @@ export default {
 }
 .fc-content {
   font-size: 80%;
+}
+.gcal-event {
+  background-color: #e65100;
+  border-color: #e65100;
+}
+.canceled-event {
+  background-color: gray;
+  border-color: gray;
 }
 </style>
