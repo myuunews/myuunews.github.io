@@ -36,7 +36,7 @@ export default {
       calendarPlugins: [dayGridPlugin, timeGridPlugin, googleCalendarPlugin],
       locale: jaLocale,
       height: "auto",
-      googleCalendarApiKey: process.env.VUE_APP_GOOGLE_CAL_KEY,
+      googleCalendarApiKey: process.env.GRIDSOME_GOOGLE_CAL_KEY,
       eventSources: [
         {
           googleCalendarId:
