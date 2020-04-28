@@ -118,13 +118,13 @@
         <g-link to="https://twitter.com/Yukgaejang98">Twitter (@Yukgaejang98)</g-link>
       </li>
       <li>
-        のびしろにょきにょき
+        のびざかりにょきにょき
         <ul>
           <li>
             <g-link to="https://ch.nicovideo.jp/nobishiro-nyokinyoki">ニコニコチャンネル</g-link>
           </li>
           <li>
-            <g-link to="https://twitter.com/nobishironyoki2">Twitter (@nobishironyoki2)</g-link>
+            <g-link to="https://twitter.com/nobinyoki">Twitter (@nobinyoki)</g-link>
           </li>
         </ul>
       </li>
@@ -183,6 +183,11 @@
             <g-link
               to="https://www.youtube.com/channel/UCNWWdKniJyzQA3RiJ5LMoVw"
             >YouTubeチャンネル (D4DJチャンネル)</g-link>
+          </li>
+          <li>
+            <g-link
+              to="https://www.showroom-live.com/d4dj"
+            >SHOWROOM（d4dj）</g-link>
           </li>
           <li>
             <g-link
