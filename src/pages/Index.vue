@@ -4,39 +4,44 @@
     <h1>myuunews</h1>
 
     <p>
-      <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>
+      <a class="twitter-share-button" href="https://twitter.com/intent/tweet"
+        >Tweet</a
+      >
     </p>
-    <p>81プロデュース所属の声優・高木美佑さんの情報を集約するための非公式Twitterアカウントです。</p>
+    <p>
+      81プロデュース所属の声優・高木美佑さんの情報を集約するための非公式Twitterアカウントです。
+    </p>
 
     <h2>
       <svg
+        viewBox="0 0 15 15"
+        fill="none"
         xmlns="http://www.w3.org/2000/svg"
         width="24"
         height="24"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="feather feather-info"
       >
-        <circle cx="12" cy="12" r="10" />
-        <line x1="12" y1="16" x2="12" y2="12" />
-        <line x1="12" y1="8" x2="12.01" y2="8" />
+        <path
+          d="M7 4.5V5h1v-.5H7zm1-.01v-.5H7v.5h1zM8 11V7H7v4h1zm0-6.5v-.01H7v.01h1zM6 8h1.5V7H6v1zm0 3h3v-1H6v1zM7.5 1A6.5 6.5 0 0114 7.5h1A7.5 7.5 0 007.5 0v1zM1 7.5A6.5 6.5 0 017.5 1V0A7.5 7.5 0 000 7.5h1zM7.5 14A6.5 6.5 0 011 7.5H0A7.5 7.5 0 007.5 15v-1zm0 1A7.5 7.5 0 0015 7.5h-1A6.5 6.5 0 017.5 14v1z"
+          fill="currentColor"
+        ></path>
       </svg>
       Information
     </h2>
     <ul>
       <li>
         当アカウントは、
-        <g-link to="https://github.com/yoppinews/yoppinews-bot">yoppinews/yoppinews-bot</g-link>を利用しています。
+        <g-link to="https://github.com/yoppinews/yoppinews-bot"
+          >yoppinews/yoppinews-bot</g-link
+        >を利用しています。
       </li>
       <li>
         情報の誤りに関する指摘や情報提供は
-        <g-link to="https://twitter.com/myuunews">Twitter</g-link> DMにてお願いいたします。
+        <g-link to="https://twitter.com/myuunews">Twitter</g-link>
+        DMにてお願いいたします。
       </li>
-      <li>可能な限り正確な情報を収集するよう努めますが、その正確性についていかなる保証も行いません。当アカウントを使用したことに起因する損害についていかなる責任も負いません。</li>
+      <li>
+        可能な限り正確な情報を収集するよう努めますが、その正確性についていかなる保証も行いません。当アカウントを使用したことに起因する損害についていかなる責任も負いません。
+      </li>
       <li>
         管理者:
         <g-link to="https://twitter.com/_theoria">@_theoria</g-link>
@@ -45,21 +50,16 @@
 
     <h2>
       <svg
+        viewBox="0 0 15 15"
+        fill="none"
         xmlns="http://www.w3.org/2000/svg"
         width="24"
         height="24"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="feather feather-calendar"
       >
-        <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
-        <line x1="16" y1="2" x2="16" y2="6" />
-        <line x1="8" y1="2" x2="8" y2="6" />
-        <line x1="3" y1="10" x2="21" y2="10" />
+        <path
+          d="M3.5 0v5m8-5v5m-10-2.5h12a1 1 0 011 1v10a1 1 0 01-1 1h-12a1 1 0 01-1-1v-10a1 1 0 011-1z"
+          stroke="currentColor"
+        ></path>
       </svg>
       Calendar
     </h2>
@@ -68,43 +68,37 @@
 
     <h2>
       <svg
+        viewBox="0 0 15 15"
+        fill="none"
         xmlns="http://www.w3.org/2000/svg"
         width="24"
         height="24"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="feather feather-twitter"
       >
         <path
-          d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"
-        />
+          d="M14.478 1.5l.5-.033a.5.5 0 00-.871-.301l.371.334zm-.498 2.959a.5.5 0 10-1 0h1zm-6.49.082h-.5.5zm0 .959h.5-.5zm-6.99 7V12a.5.5 0 00-.278.916L.5 12.5zm.998-11l.469-.175a.5.5 0 00-.916-.048l.447.223zm3.994 9l.354.353a.5.5 0 00-.195-.827l-.159.474zm7.224-8.027l-.37.336.18.199.265-.04-.075-.495zm1.264-.94c.051.778.003 1.25-.123 1.606-.122.345-.336.629-.723 1l.692.722c.438-.42.776-.832.974-1.388.193-.546.232-1.178.177-2.006l-.998.066zm0 3.654V4.46h-1v.728h1zm-6.99-.646V5.5h1v-.959h-1zm0 .959V6h1v-.5h-1zM10.525 1a3.539 3.539 0 00-3.537 3.541h1A2.539 2.539 0 0110.526 2V1zm2.454 4.187C12.98 9.503 9.487 13 5.18 13v1c4.86 0 8.8-3.946 8.8-8.813h-1zM1.03 1.675C1.574 3.127 3.614 6 7.49 6V5C4.174 5 2.421 2.54 1.966 1.325l-.937.35zm.021-.398C.004 3.373-.157 5.407.604 7.139c.759 1.727 2.392 3.055 4.73 3.835l.317-.948c-2.155-.72-3.518-1.892-4.132-3.29-.612-1.393-.523-3.11.427-5.013l-.895-.446zm4.087 8.87C4.536 10.75 2.726 12 .5 12v1c2.566 0 4.617-1.416 5.346-2.147l-.708-.706zm7.949-8.009A3.445 3.445 0 0010.526 1v1c.721 0 1.37.311 1.82.809l.74-.671zm-.296.83a3.513 3.513 0 002.06-1.134l-.744-.668a2.514 2.514 0 01-1.466.813l.15.989zM.222 12.916C1.863 14.01 3.583 14 5.18 14v-1c-1.63 0-3.048-.011-4.402-.916l-.556.832z"
+          fill="currentColor"
+        ></path>
       </svg>
       Timeline
     </h2>
     <a
       class="twitter-timeline"
       href="https://twitter.com/myuunews?ref_src=twsrc%5Etfw"
-    >Tweets by myuunews</a>
+      >Tweets by myuunews</a
+    >
 
     <h2>
       <svg
+        viewBox="0 0 15 15"
+        fill="none"
         xmlns="http://www.w3.org/2000/svg"
         width="24"
         height="24"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="feather feather-link"
       >
-        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
-        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+        <path
+          d="M4.5 6.5L1.328 9.672a2.828 2.828 0 104 4L8.5 10.5m2-2l3.172-3.172a2.829 2.829 0 00-4-4L6.5 4.5m-2 6l6-6"
+          stroke="currentColor"
+        ></path>
       </svg>
       Link
     </h2>
@@ -112,19 +106,26 @@
       <li>
         <g-link
           to="https://www.81produce.co.jp/actor_search/index.php/item?id=231&name=%E9%AB%98%E6%9C%A8%E3%80%80%E7%BE%8E%E4%BD%91"
-        >81プロデュースによるプロフィール</g-link>
+          >81プロデュースによるプロフィール</g-link
+        >
       </li>
       <li>
-        <g-link to="https://twitter.com/Yukgaejang98">Twitter (@Yukgaejang98)</g-link>
+        <g-link to="https://twitter.com/Yukgaejang98"
+          >Twitter (@Yukgaejang98)</g-link
+        >
       </li>
       <li>
         のびざかりにょきにょき
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/nobishiro-nyokinyoki">ニコニコチャンネル</g-link>
+            <g-link to="https://ch.nicovideo.jp/nobishiro-nyokinyoki"
+              >ニコニコチャンネル</g-link
+            >
           </li>
           <li>
-            <g-link to="https://twitter.com/nobinyoki">Twitter (@nobinyoki)</g-link>
+            <g-link to="https://twitter.com/nobinyoki"
+              >Twitter (@nobinyoki)</g-link
+            >
           </li>
         </ul>
       </li>
@@ -132,10 +133,15 @@
         青山吉能と高木美佑が送る、マイナスイオンたっぷりのヒーリングラジオ。略して、「−マイラジ」
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/thecreate">ニコニコチャンネル (「中島ヨシキのザックリエイト」チャンネル)</g-link>
+            <g-link to="https://ch.nicovideo.jp/thecreate"
+              >ニコニコチャンネル
+              (「中島ヨシキのザックリエイト」チャンネル)</g-link
+            >
           </li>
           <li>
-            <g-link to="https://twitter.com/thecreate8">Twitter (@thecreate8) (中島ヨシキのザックリエイト公式)</g-link>
+            <g-link to="https://twitter.com/thecreate8"
+              >Twitter (@thecreate8) (中島ヨシキのザックリエイト公式)</g-link
+            >
           </li>
         </ul>
       </li>
@@ -143,10 +149,14 @@
         高木美佑のお夜食マリアージュ
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/youdeallive">ニコニコチャンネル (YOUDEALヒルズ荘)</g-link>
+            <g-link to="https://ch.nicovideo.jp/youdeallive"
+              >ニコニコチャンネル (YOUDEALヒルズ荘)</g-link
+            >
           </li>
           <li>
-            <g-link to="https://twitter.com/y_hills_sou">Twitter (@y_hills_sou) (YOUDEALヒルズ荘)</g-link>
+            <g-link to="https://twitter.com/y_hills_sou"
+              >Twitter (@y_hills_sou) (YOUDEALヒルズ荘)</g-link
+            >
           </li>
         </ul>
       </li>
@@ -154,16 +164,24 @@
         英美里・美佑といっしょに『グラブル』！
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/famitsu">ニコニコチャンネル (ファミ通チャンネル)</g-link>
+            <g-link to="https://ch.nicovideo.jp/famitsu"
+              >ニコニコチャンネル (ファミ通チャンネル)</g-link
+            >
           </li>
           <li>
-            <g-link to="https://www.youtube.com/user/famitsutube">YouTubeチャンネル (ファミ通TUBE)</g-link>
+            <g-link to="https://www.youtube.com/user/famitsutube"
+              >YouTubeチャンネル (ファミ通TUBE)</g-link
+            >
           </li>
           <li>
-            <g-link to="https://twitter.com/WeeklyFamitsu">Twitter (@WeeklyFamitsu) (週刊ファミ通)</g-link>
+            <g-link to="https://twitter.com/WeeklyFamitsu"
+              >Twitter (@WeeklyFamitsu) (週刊ファミ通)</g-link
+            >
           </li>
           <li>
-            <g-link to="https://twitter.com/famitsu">Twitter (@famitsu) (ファミ通.com)</g-link>
+            <g-link to="https://twitter.com/famitsu"
+              >Twitter (@famitsu) (ファミ通.com)</g-link
+            >
           </li>
         </ul>
       </li>
@@ -177,22 +195,26 @@
             <g-link to="https://twitter.com/D4DJ_pj">Twitter (@D4DJ_pj)</g-link>
           </li>
           <li>
-            <g-link to="https://www.instagram.com/d4dj_official/">Instagram (@d4dj_official)</g-link>
+            <g-link to="https://www.instagram.com/d4dj_official/"
+              >Instagram (@d4dj_official)</g-link
+            >
           </li>
           <li>
             <g-link
               to="https://www.youtube.com/channel/UCNWWdKniJyzQA3RiJ5LMoVw"
-            >YouTubeチャンネル (D4DJチャンネル)</g-link>
+              >YouTubeチャンネル (D4DJチャンネル)</g-link
+            >
           </li>
           <li>
-            <g-link
-              to="https://www.showroom-live.com/d4dj"
-            >SHOWROOM（d4dj）</g-link>
+            <g-link to="https://www.showroom-live.com/d4dj"
+              >SHOWROOM（d4dj）</g-link
+            >
           </li>
           <li>
-            <g-link
-              to="https://hibiki-radio.jp/description/pkpk/detail"
-            >響ラジオステーション「D4DJ ピキピキRADIO」 (毎週月曜日更新)</g-link>
+            <g-link to="https://hibiki-radio.jp/description/pkpk/detail"
+              >響ラジオステーション「D4DJ ピキピキRADIO」
+              (毎週月曜日更新)</g-link
+            >
           </li>
           <li>
             アプリゲーム Groovy Mix
@@ -201,7 +223,9 @@
                 <g-link to="https://d4dj.bushimo.jp/">公式サイト</g-link>
               </li>
               <li>
-                <g-link to="https://twitter.com/D4DJ_gm">Twitter (@D4DJ_gm)</g-link>
+                <g-link to="https://twitter.com/D4DJ_gm"
+                  >Twitter (@D4DJ_gm)</g-link
+                >
               </li>
             </ul>
           </li>
@@ -211,37 +235,55 @@
         ゲームとアニメの情報バラエティ『木曜だからゲッチャ』
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/ch1616">ニコニコチャンネル</g-link>
+            <g-link to="https://ch.nicovideo.jp/ch1616"
+              >ニコニコチャンネル</g-link
+            >
           </li>
           <li>
-            <g-link to="https://www.youtube.com/channel/UC6pUKYPp9JjtZ80gb3tG65g">YouTubeチャンネル</g-link>
+            <g-link
+              to="https://www.youtube.com/channel/UC6pUKYPp9JjtZ80gb3tG65g"
+              >YouTubeチャンネル</g-link
+            >
           </li>
           <li>
-            <g-link to="https://twitter.com/gacha_thursday">Twitter (@gacha_thursday)</g-link>
+            <g-link to="https://twitter.com/gacha_thursday"
+              >Twitter (@gacha_thursday)</g-link
+            >
           </li>
         </ul>
       </li>
       <li>
         <g-link
           to="https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%BE%8E%E4%BD%91"
-        >Wikipedia（日本語）</g-link>
+          >Wikipedia（日本語）</g-link
+        >
       </li>
       <li>
-        <g-link to="https://zh.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%BE%8E%E4%BD%91">维基百科（中文）</g-link>
+        <g-link
+          to="https://zh.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%BE%8E%E4%BD%91"
+          >维基百科（中文）</g-link
+        >
       </li>
       <li>
-        <g-link to="https://www.wikidata.org/wiki/Q17686837">Wikidata (Q17686837)</g-link>
+        <g-link to="https://www.wikidata.org/wiki/Q17686837"
+          >Wikidata (Q17686837)</g-link
+        >
       </li>
       <li>
-        <g-link to="http://www.isni.org/isni/0000000466688311">ISNI (0000 0004 6668 8311)</g-link>
+        <g-link to="http://www.isni.org/isni/0000000466688311"
+          >ISNI (0000 0004 6668 8311)</g-link
+        >
       </li>
       <li>
         <g-link
           to="https://musicbrainz.org/artist/b2ade2fc-ea53-447b-9bc4-81aca7a08bdf"
-        >MusicBrainz (b2ade2fc-ea53-447b-9bc4-81aca7a08bdf)</g-link>
+          >MusicBrainz (b2ade2fc-ea53-447b-9bc4-81aca7a08bdf)</g-link
+        >
       </li>
       <li>
-        <g-link to="https://www.imdb.com/name/nm6216741/">IMDb (nm6216741)</g-link>
+        <g-link to="https://www.imdb.com/name/nm6216741/"
+          >IMDb (nm6216741)</g-link
+        >
       </li>
     </ul>
   </Layout>
@@ -252,11 +294,11 @@ import Calendar from "~/components/Calendar.vue";
 
 export default {
   metaInfo: {
-    title: "myuunews"
+    title: "myuunews",
   },
   components: {
-    Calendar
-  }
+    Calendar,
+  },
 };
 </script>
 
