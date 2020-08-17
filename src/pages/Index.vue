@@ -99,195 +99,15 @@
           stroke="currentColor"
         />
       </svg>
-      Link
+      Links
     </h2>
-    <ul>
-      <li>
-        <g-link
-          to="https://www.81produce.co.jp/actor_search/index.php/item?id=231&name=%E9%AB%98%E6%9C%A8%E3%80%80%E7%BE%8E%E4%BD%91"
-          >81プロデュースによるプロフィール</g-link
-        >
-      </li>
-      <li>
-        <g-link to="https://twitter.com/Yukgaejang98"
-          >Twitter (@Yukgaejang98)</g-link
-        >
-      </li>
-      <li>
-        のびざかりにょきにょき
-        <ul>
-          <li>
-            <g-link to="https://ch.nicovideo.jp/nobishiro-nyokinyoki"
-              >ニコニコチャンネル</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://twitter.com/nobinyoki"
-              >Twitter (@nobinyoki)</g-link
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        青山吉能と高木美佑が送る、マイナスイオンたっぷりのヒーリングラジオ。略して、「−マイラジ」
-        <ul>
-          <li>
-            <g-link to="https://ch.nicovideo.jp/thecreate">
-              ニコニコチャンネル (「中島ヨシキのザックリエイト」チャンネル)
-            </g-link>
-          </li>
-          <li>
-            <g-link to="https://twitter.com/thecreate8"
-              >Twitter (@thecreate8) (中島ヨシキのザックリエイト公式)</g-link
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        高木美佑のお夜食マリアージュ
-        <ul>
-          <li>
-            <g-link to="https://ch.nicovideo.jp/youdeallive"
-              >ニコニコチャンネル (YOUDEALヒルズ荘)</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://twitter.com/y_hills_sou"
-              >Twitter (@y_hills_sou) (YOUDEALヒルズ荘)</g-link
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        英美里・美佑といっしょに『グラブル』！
-        <ul>
-          <li>
-            <g-link to="https://ch.nicovideo.jp/famitsu"
-              >ニコニコチャンネル (ファミ通チャンネル)</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://www.youtube.com/user/famitsutube"
-              >YouTubeチャンネル (ファミ通TUBE)</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://twitter.com/WeeklyFamitsu"
-              >Twitter (@WeeklyFamitsu) (週刊ファミ通)</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://twitter.com/famitsu"
-              >Twitter (@famitsu) (ファミ通.com)</g-link
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        D4DJ
-        <ul>
-          <li>
-            <g-link to="https://d4dj-pj.com/">公式サイト</g-link>
-          </li>
-          <li>
-            <g-link to="https://twitter.com/D4DJ_pj">Twitter (@D4DJ_pj)</g-link>
-          </li>
-          <li>
-            <g-link to="https://www.instagram.com/d4dj_official/"
-              >Instagram (@d4dj_official)</g-link
-            >
-          </li>
-          <li>
-            <g-link
-              to="https://www.youtube.com/channel/UCNWWdKniJyzQA3RiJ5LMoVw"
-              >YouTubeチャンネル (D4DJチャンネル)</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://www.showroom-live.com/d4dj"
-              >SHOWROOM（d4dj）</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://hibiki-radio.jp/description/pkpk/detail">
-              響ラジオステーション「D4DJ ピキピキRADIO」 (毎週月曜日更新)
-            </g-link>
-          </li>
-          <li>
-            アプリゲーム Groovy Mix
-            <ul>
-              <li>
-                <g-link to="https://d4dj.bushimo.jp/">公式サイト</g-link>
-              </li>
-              <li>
-                <g-link to="https://twitter.com/D4DJ_gm"
-                  >Twitter (@D4DJ_gm)</g-link
-                >
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        ゲームとアニメの情報バラエティ『木曜だからゲッチャ』
-        <ul>
-          <li>
-            <g-link to="https://ch.nicovideo.jp/ch1616"
-              >ニコニコチャンネル</g-link
-            >
-          </li>
-          <li>
-            <g-link
-              to="https://www.youtube.com/channel/UC6pUKYPp9JjtZ80gb3tG65g"
-              >YouTubeチャンネル</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://twitter.com/gacha_thursday"
-              >Twitter (@gacha_thursday)</g-link
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        <g-link
-          to="https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%BE%8E%E4%BD%91"
-          >Wikipedia（日本語）</g-link
-        >
-      </li>
-      <li>
-        <g-link
-          to="https://zh.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%BE%8E%E4%BD%91"
-          >维基百科（中文）</g-link
-        >
-      </li>
-      <li>
-        <g-link to="https://www.wikidata.org/wiki/Q17686837"
-          >Wikidata (Q17686837)</g-link
-        >
-      </li>
-      <li>
-        <g-link to="http://www.isni.org/isni/0000000466688311"
-          >ISNI (0000 0004 6668 8311)</g-link
-        >
-      </li>
-      <li>
-        <g-link
-          to="https://musicbrainz.org/artist/b2ade2fc-ea53-447b-9bc4-81aca7a08bdf"
-          >MusicBrainz (b2ade2fc-ea53-447b-9bc4-81aca7a08bdf)</g-link
-        >
-      </li>
-      <li>
-        <g-link to="https://www.imdb.com/name/nm6216741/"
-          >IMDb (nm6216741)</g-link
-        >
-      </li>
-    </ul>
+    <Links />
   </Layout>
 </template>
 
 <script>
 import Calendar from "~/components/Calendar.vue";
+import Links from "~/components/Links.vue";
 
 export default {
   metaInfo: {
@@ -295,6 +115,7 @@ export default {
   },
   components: {
     Calendar,
+    Links,
   },
 };
 </script>
