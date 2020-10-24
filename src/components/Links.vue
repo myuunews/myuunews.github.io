@@ -56,16 +56,6 @@
             >
           </li>
           <li>
-            <g-link to="https://bushiroad-music.com/artists/peakyp-key">
-              Peaky P-key (ブシロードミュージックによるアーティスト情報)
-            </g-link>
-          </li>
-          <li>
-            <g-link to="https://hibiki-radio.jp/description/pkpk/detail">
-              響ラジオステーション「D4DJ ピキピキRADIO」 (毎週月曜日更新)
-            </g-link>
-          </li>
-          <li>
             TVアニメ「D4DJ First Mix」
             <ul>
               <li>
@@ -83,6 +73,43 @@
                 <g-link to="https://twitter.com/D4DJ_gm"
                   >Twitter (@D4DJ_gm)</g-link
                 >
+              </li>
+            </ul>
+          </li>
+          <li>
+            Peaky P-key
+            <ul>
+              <li>
+                <g-link to="https://bushiroad-music.com/artists/peakyp-key">
+                  ブシロードミュージックによるアーティスト情報
+                </g-link>
+              </li>
+              <li>
+                <g-link to="https://hibiki-radio.jp/description/pkpk/detail">
+                  響ラジオステーション「D4DJ ピキピキRADIO」
+                </g-link>
+                (更新終了)
+              </li>
+              <li>
+                TBSラジオ「D4DJ presents Peaky P-keyの最頂点Mix」 (毎週木曜日
+                21:30-22:00)
+                <ul>
+                  <li>
+                    <g-link to="https://www.tbsradio.jp/d4dj/"
+                      >TBSラジオ公式サイト</g-link
+                    >
+                  </li>
+                  <li>
+                    <g-link to="https://d4dj-pj.com/media/post-7"
+                      >D4DJ公式サイト</g-link
+                    >
+                  </li>
+                  <li>
+                    <g-link to="https://twitter.com/d4dj_pp"
+                      >Twitter (@d4dj_pp)</g-link
+                    >
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -328,6 +355,24 @@
                 >
               </li>
             </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        ららマジ
+        <ul>
+          <li>
+            <g-link to="http://raramagi.wrightflyer.net/">公式サイト</g-link>
+          </li>
+          <li>
+            <g-link to="https://twitter.com/raramagi"
+              >Twitter (@raramagi)</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://fanbeats.jp/121129179"
+              >Fanbeats (クラウドファンディングサイト)</g-link
+            >
           </li>
         </ul>
       </li>
