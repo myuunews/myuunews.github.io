@@ -12,6 +12,11 @@
           >Twitter (@Yukgaejang98)</g-link
         >
       </li>
+      <li>
+        <g-link to="https://www.youtube.com/user/SHIKI160X"
+          >YouTube (高木美佑)</g-link
+        >
+      </li>
     </ul>
     <h3>出演作品</h3>
     <ul>
@@ -22,12 +27,18 @@
             <g-link to="https://d4dj-pj.com/">公式サイト</g-link>
           </li>
           <li>
+            <g-link to="https://en.d4dj-pj.com/">Official Website [EN]</g-link>
+          </li>
+          <li>
             <g-link to="https://bushiroad-music.com/titles/d4dj">
               ブシロードミュージックによる作品ページ
             </g-link>
           </li>
           <li>
             <g-link to="https://twitter.com/D4DJ_pj">Twitter (@D4DJ_pj)</g-link>
+          </li>
+          <li>
+            <g-link to="https://twitter.com/D4DJ_pj_EN">Twitter (@D4DJ_pj_EN) [EN]</g-link>
           </li>
           <li>
             <g-link to="https://www.instagram.com/d4dj_official/"
@@ -38,6 +49,18 @@
             <g-link
               to="https://www.youtube.com/channel/UCNWWdKniJyzQA3RiJ5LMoVw"
               >YouTubeチャンネル (D4DJチャンネル)</g-link
+            >
+          </li>
+          <li>
+            <g-link
+              to="https://www.youtube.com/channel/UCbuCfr-ys8-owEB5gNzOkxA"
+              >YouTubeチャンネル (D4DJ Global Channel) [EN]</g-link
+            >
+          </li>
+          <li>
+            <g-link
+              to="https://www.facebook.com/D4DJProjectEN"
+              >Facebook (@D4DJProjectEN) [EN]</g-link
             >
           </li>
           <li>
