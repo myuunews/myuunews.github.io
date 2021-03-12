@@ -38,7 +38,9 @@
             <g-link to="https://twitter.com/D4DJ_pj">Twitter (@D4DJ_pj)</g-link>
           </li>
           <li>
-            <g-link to="https://twitter.com/D4DJ_pj_EN">Twitter (@D4DJ_pj_EN) [EN]</g-link>
+            <g-link to="https://twitter.com/D4DJ_pj_EN"
+              >Twitter (@D4DJ_pj_EN) [EN]</g-link
+            >
           </li>
           <li>
             <g-link to="https://www.instagram.com/d4dj_official/"
@@ -58,8 +60,7 @@
             >
           </li>
           <li>
-            <g-link
-              to="https://www.facebook.com/D4DJProjectEN"
+            <g-link to="https://www.facebook.com/D4DJProjectEN"
               >Facebook (@D4DJProjectEN) [EN]</g-link
             >
           </li>
@@ -83,6 +84,11 @@
             <ul>
               <li>
                 <g-link to="https://anime.d4dj-pj.com/">公式サイト</g-link>
+              </li>
+              <li>
+                <g-link to="https://anime.d4dj-pj.com/petit-mix/"
+                  >ぷっちみく♪ D4DJ Petit Mix</g-link
+                >
               </li>
             </ul>
           </li>
@@ -170,11 +176,123 @@
         </ul>
       </li>
       <li>
+        ソードアート・オンライン ロスト・ソング
+        <ul>
+          <li>
+            <g-link to="https://sao-lostsong.bngames.net/"
+              >バンダイナムコゲームスによる公式サイト</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://twitter.com/sao_gameinfo"
+              >ソードアート・オンライン ゲーム公式情報 Twitter
+              (@sao_gameinfo)</g-link
+            >
+          </li>
+        </ul>
+      </li>
+      <li>
         異世界はスマートフォンとともに。
         <ul>
           <li>
             <g-link to="https://hobbyjapan.co.jp/hjnovels/series/7/"
               >HJノベルスによる公式サイト</g-link
+            >
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h3>出演コンテンツ</h3>
+    <ul>
+      <li>
+        温泉むすめ
+        <ul>
+          <li>
+            <g-link to="https://onsen-musume.jp/character/yumura_chiyo"
+              >湯村千代 公式プロフィール</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://twitter.com/onsen_musume_jp"
+              >Twitter (@onsen_musume_jp)</g-link
+            >
+          </li>
+          <li>
+            <g-link
+              to="https://www.youtube.com/channel/UCMNlamFhTZK6qbgtQnoXkfQ"
+              >YouTubeチャンネル (温泉むすめ公式)</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://www.instagram.com/onsen_musume_jp/"
+              >Instagram (@onsen_musume_jp)</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://www.facebook.com/onsenmusumejp/"
+              >Facebook (onsenmusumejp)</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://weibo.com/u/7324160137"
+              >微博 (7324160137)</g-link
+            >
+          </li>
+          <li>
+            湯村温泉
+            <ul>
+              <li>
+                <g-link to="http://www.yumura.gr.jp/">観光協会</g-link>
+              </li>
+              <li>
+                <g-link to="https://twitter.com/aEHI80mtPSaz64c"
+                  >温泉むすめ実行委員会 Twitter (@aEHI80mtPSaz64c)</g-link
+                >
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        飯田丘のまちフェスティバルマスコットキャラクター ナミキちゃん
+        <ul>
+          <li>
+            <g-link
+              to="https://www.city.iida.lg.jp/soshiki/34/yurukyara.html#04"
+              >飯田市ホームページ
+              飯田市にはどんな“ゆるキャラ”がいますか？</g-link
+            >
+          </li>
+          <li>
+            飯田 丘のまちフェスティバル
+            <ul>
+              <li>
+                <g-link to="http://www.namikichan.com/">公式サイト</g-link>
+              </li>
+              <li>
+                <g-link to="https://twitter.com/iida_okafes"
+                  >Twitter (@iida_okafes)</g-link
+                >
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        OMOTENASHI BEATS
+        <ul>
+          <li>
+            <g-link to="https://omotenashibeats.jp/">公式サイト</g-link>
+          </li>
+          <li>
+            <g-link to="https://twitter.com/OmotenashiB"
+              >Twitter (@OmotenashiB)</g-link
+            >
+          </li>
+          <li>
+            <g-link
+              to="https://www.youtube.com/channel/UCEUgstxHoU_CHeJ-WXtSs5w"
+              >YouTubeチャンネル (OMOTENASHI BEATS)</g-link
             >
           </li>
         </ul>
@@ -208,27 +326,6 @@
           <li>
             <g-link to="https://twitter.com/thecreate8"
               >Twitter (@thecreate8) (中島ヨシキのザックリエイト公式)</g-link
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        高木美佑のお夜食マリアージュ
-        <ul>
-          <li>
-            <g-link to="https://ch.nicovideo.jp/youdeallive"
-              >ニコニコチャンネル (YOUDEALヒルズ荘)</g-link
-            >
-          </li>
-          <li>
-            <g-link
-              to="https://www.youtube.com/channel/UCfcVWrzB6l9xJaL4Vo-3IOw"
-              >YouTubeチャンネル (YOUDEAL LIVE Channel -声優番組まとめ-)</g-link
-            >
-          </li>
-          <li>
-            <g-link to="https://twitter.com/y_hills_sou"
-              >Twitter (@y_hills_sou) (YOUDEALヒルズ荘)</g-link
             >
           </li>
         </ul>
@@ -344,6 +441,21 @@
               >Twitter (@wakeupgirls_PR)</g-link
             >
           </li>
+          <li>
+            パチスロ Wake Up, Girls！ Seven Memories
+            <ul>
+              <li>
+                <g-link to="https://slot.carmina-gaming.co.jp/WUG/"
+                  >公式サイト</g-link
+                >
+              </li>
+              <li>
+                <g-link to="https://twitter.com/Carmina_slot"
+                  >Twitter (@Carmina_slot)</g-link
+                >
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
@@ -395,6 +507,30 @@
           <li>
             <g-link to="https://fanbeats.jp/121129179"
               >Fanbeats (クラウドファンディングサイト)</g-link
+            >
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h3>終了番組</h3>
+    <ul>
+      <li>
+        高木美佑のお夜食マリアージュ
+        <ul>
+          <li>
+            <g-link to="https://ch.nicovideo.jp/youdeallive"
+              >ニコニコチャンネル (YOUDEALヒルズ荘)</g-link
+            >
+          </li>
+          <li>
+            <g-link
+              to="https://www.youtube.com/channel/UCfcVWrzB6l9xJaL4Vo-3IOw"
+              >YouTubeチャンネル (YOUDEAL LIVE Channel -声優番組まとめ-)</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://twitter.com/y_hills_sou"
+              >Twitter (@y_hills_sou) (YOUDEALヒルズ荘)</g-link
             >
           </li>
         </ul>
