@@ -387,6 +387,13 @@
       </li>
       <li>
         <g-link
+          to="https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%B9%B4%EA%B8%B0_%EB%AF%B8%EC%9C%A0"
+          >위키백과 (한국어)</g-link
+        >
+        (韓国語版ウィキペディア)
+      </li>
+      <li>
+        <g-link
           to="https://zh.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%BE%8E%E4%BD%91"
           >维基百科 (中文)</g-link
         >
