@@ -407,6 +407,13 @@
         (広東語版ウィキペディア)
       </li>
       <li>
+        <g-link
+          to="https://arz.wikipedia.org/wiki/%D9%85%D9%8A%D9%88_%D8%AA%D8%A7%D9%83%D8%A7%DA%86%D9%89"
+          >ويكيبيديا (مصرى)</g-link
+        >
+        (エジプト・アラビア語版ウィキペディア)
+      </li>
+      <li>
         <g-link to="https://www.wikidata.org/wiki/Q17686837"
           >Wikidata (Q17686837)</g-link
         >
