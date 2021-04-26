@@ -103,6 +103,16 @@
                   >Twitter (@D4DJ_gm)</g-link
                 >
               </li>
+              <li>
+                <g-link to="https://twitter.com/D4DJ_game_EN"
+                  >Twitter (@D4DJ_game_EN) [EN]</g-link
+                >
+              </li>
+              <li>
+                <g-link to="https://www.mildom.com/profile/12531299"
+                  >Mildom</g-link
+                >
+              </li>
             </ul>
           </li>
           <li>
@@ -121,7 +131,7 @@
               </li>
               <li>
                 TBSラジオ「D4DJ presents Peaky P-keyの最頂点Mix」 (毎週木曜日
-                21:30-22:00)
+                21:30-22:00) (終了)
                 <ul>
                   <li>
                     <g-link to="https://www.tbsradio.jp/d4dj/"
@@ -172,6 +182,35 @@
                 >
               </li>
             </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        八月のシンデレラナイン
+        <ul>
+          <li>
+            <g-link to="https://hachinai.com/">公式サイト</g-link>
+          </li>
+          <li>
+            <g-link to="https://anime-hachinai.com/"
+              >TVアニメ 公式サイト</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://twitter.com/hachinai89"
+              >Twitter (@hachinai89)</g-link
+            >
+          </li>
+          <li>
+            <g-link
+              to="https://www.youtube.com/channel/UCr0O5PRy_ehexUInW4UijVA"
+              >YouTubeチャンネル</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://ch.nicovideo.jp/hachinai">
+              ニコニコチャンネル
+            </g-link>
           </li>
         </ul>
       </li>
@@ -319,7 +358,7 @@
         青山吉能と高木美佑が送る、マイナスイオンたっぷりのヒーリングラジオ。略して、「−マイラジ」
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/thecreate">
+            <g-link to="https://ch.nicovideo.jp/the-create">
               ニコニコチャンネル (「中島ヨシキのザックリエイト」チャンネル)
             </g-link>
           </li>
@@ -359,11 +398,6 @@
         ゲームとアニメの情報バラエティ『木曜だからゲッチャ』
         <ul>
           <li>
-            <g-link to="https://ch.nicovideo.jp/ch1616"
-              >ニコニコチャンネル</g-link
-            >
-          </li>
-          <li>
             <g-link
               to="https://www.youtube.com/channel/UC6pUKYPp9JjtZ80gb3tG65g"
               >YouTubeチャンネル (gachanavi)</g-link
@@ -372,6 +406,11 @@
           <li>
             <g-link to="https://twitter.com/gacha_thursday"
               >Twitter (@gacha_thursday)</g-link
+            >
+          </li>
+          <li>
+            <g-link to="https://ch.nicovideo.jp/ch1616"
+              >ニコニコチャンネル</g-link
             >
           </li>
         </ul>
